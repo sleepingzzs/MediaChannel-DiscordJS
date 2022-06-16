@@ -1,4 +1,4 @@
-# BetterMediaOnlyChannel 
+# MediaChannel-DiscordJS
 
 It's a discord bot which automatically deletes the messages which does not have any pics/videos.
 
